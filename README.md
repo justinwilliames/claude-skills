@@ -1,6 +1,6 @@
 # claude-skills
 
-Battle-tested Claude Code skills: multi-model delegation/orchestration, spec hardening, autonomous work loops, and OpenAI Codex bridges (delegation, image generation, computer control). Sanitized from daily production use.
+Battle-tested Claude Code skills: multi-model delegation/orchestration, spec hardening, autonomous work loops, OpenAI Codex bridges, and personal-ops utilities (weekly self-review, calendar hygiene). Sanitized from daily production use.
 
 ---
 
@@ -14,6 +14,8 @@ Battle-tested Claude Code skills: multi-model delegation/orchestration, spec har
 | [`codex`](codex/) | Delegates single-focus coding tasks, reviews, and deliberations to OpenAI Codex (GPT-5.5) as a genuine second brain — `think` for analysis, `run` for implementation. |
 | [`codex-imagegen`](codex-imagegen/) | Delegates raster image generation and editing to Codex CLI, handling attachment flow, prompt skeletons, and output capture. |
 | [`computer-control`](computer-control/) | Routes any screen-driving task to the right engine — Claude in Chrome for web automation, the Codex bridge for native macOS app control, osascript for scriptable tasks. |
+| [`self-performance-review`](self-performance-review/) | Weekly evidence-based self-review — pulls your comms/calendar/session data, benchmarks against management canon (Grove, Drucker, Bezos), grades last week's targets. |
+| [`calendar-review`](calendar-review/) | Calendar hygiene audit — protects focus blocks, finds slots, flags conflicts with concrete fallbacks. |
 
 ---
 
