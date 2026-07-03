@@ -1,3 +1,5 @@
+> **⚠️ Moved (2026-07-03):** all skills now maintained in [justinwilliames/skills](https://github.com/justinwilliames/skills) — this repo is archived.
+
 # claude-skills
 
 Battle-tested Claude Code skills: multi-model delegation/orchestration, spec hardening, autonomous work loops, OpenAI Codex bridges, and personal-ops utilities (weekly self-review, calendar hygiene). Sanitized from daily production use.
