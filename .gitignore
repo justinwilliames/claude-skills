@@ -1,0 +1,5 @@
+# Runtime state — machine-specific, not skill code
+infinite-working-skill/registry.tsv
+
+# Local Claude Code settings (machine-specific)
+**/.claude/settings.local.json
