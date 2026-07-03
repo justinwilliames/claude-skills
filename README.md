@@ -39,7 +39,7 @@ Individual skills may have their own prerequisites (e.g. `jq` for `intelligent-d
 
 ## See also
 
-[github.com/justinwilliames/fable-skills](https://github.com/justinwilliames/fable-skills) — universal operating doctrine and craft (voice, delegation instincts, context discipline, build hardening). This repo is the heavier machinery those principles run on.
+[github.com/justinwilliames/skills](https://github.com/justinwilliames/skills) — universal operating doctrine and craft (voice, delegation instincts, context discipline, build hardening). This repo is the heavier machinery those principles run on.
 
 ---
 
